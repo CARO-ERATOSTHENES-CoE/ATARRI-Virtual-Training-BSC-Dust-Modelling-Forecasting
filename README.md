@@ -92,8 +92,8 @@ The `tools` directory should contain your own local copies of the following repo
 ## Clone the repository
 
 ```bash
-git clone https://github.com/<your-org>/<repository>.git
-cd <repository>
+git clone https://github.com/CARO-ERATOSTHENES-CoE/ATARRI-Virtual-Training-BSC-Dust-Modelling-Forecasting.git
+cd ATARRI-Virtual-Training-BSC-Dust-Modelling-Forecasting
 ```
 
 ## Create the required Conda environment
