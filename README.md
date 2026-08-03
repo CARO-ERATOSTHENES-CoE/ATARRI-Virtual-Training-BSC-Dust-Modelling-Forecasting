@@ -36,8 +36,6 @@ Participants learn how to read, process, visualize, and evaluate atmospheric dat
 
 # Learning Objectives
 
-By the end of the training, participants will be able to:
-
 * Read and manipulate NetCDF atmospheric datasets.
 * Analyze MONARCH dust forecasts.
 * Produce publication-quality maps and figures.
