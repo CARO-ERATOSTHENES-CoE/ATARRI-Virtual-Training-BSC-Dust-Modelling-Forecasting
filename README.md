@@ -122,8 +122,6 @@ To activate an environment from a terminal:
 conda activate <environment_name>
 ```
 
-If you experience any technical issues during the installation or training, please contact your trainer.
-
 ## Launch Jupyter
 
 ```bash
@@ -172,7 +170,7 @@ Depending on licensing restrictions, sample datasets may be included in this rep
 
 These training materials were developed within the **ATmospheric and solAR Research and Innovation in the Eastern Mediterranean (ATARRI)** project by the **Barcelona Supercomputing Center (BSC)**.
 
-We gratefully acknowledge all trainers, contributors, and participants who supported the ATARRI Virtual Training Series.
+We gratefully acknowledge all trainers, contributors, and participants who supported the ATARRI Virtual Training Series. ATARRI project has received funding from the European Union’s Horizon Europe Twinning Call (HORIZON-WIDERA-2023-ACCESS-02) under the grant agreement No 101160258.
 
 ## Project Website
 
