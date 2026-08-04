@@ -1,0 +1,34 @@
+---
+
+name: mapies-v0.2.0
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.10
+  - libnetcdf=*=mpi_mpich*
+  - netCDF4=*=mpi_mpich*
+  - h5py=*=mpi_mpich*
+  - mpi4py~=3.1.4
+  - cartopy
+  - pandas
+  - geopandas
+  - numpy
+  - dask
+  - xarray
+  - pytest
+  - pyYAML
+  - h5netcdf
+  - loguru
+  - tqdm
+  - scipy
+  - pint
+  - memory_profiler
+  - pip
+
+variables:
+  CC: mpicc
+  CXX: mpicxx
+  LDFLAGS: -shared
