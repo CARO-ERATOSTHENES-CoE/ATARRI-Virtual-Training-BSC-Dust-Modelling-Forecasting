@@ -83,7 +83,7 @@ Participants learn how to read, process, visualize, and evaluate atmospheric dat
 The `tools` directory should contain your own local copies of the following repositories:
 
 * **`mapies`** – Used for plotting and comparing satellite observations with atmospheric models.
-* **`providentia`** – Used for on-the-fly evaluation and analysis of atmospheric model data.
+* **`providentia`** – Used for on-the-fly evaluation and analysis of atmospheric model data. It is available in https://github.com/BSC-ES/providentia .
 
 ---
 
