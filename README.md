@@ -2,7 +2,7 @@
 
 Training material developed within the **ATmospheric and solAR Research and Innovation in the Eastern Mediterranean (ATARRI)** project by the **Barcelona Supercomputing Center (BSC)**.
 
-This repository contains the notebooks, datasets, presentations, and supporting material used during the **ATARRI Virtual Training Series**, which introduces atmospheric researchers to Python-based workflows for processing, visualizing, and evaluating atmospheric dust forecasts and observations.
+This repository contains the notebooks, datasets, presentations, and supporting material used during the **ATARRI Virtual Training Series on Dust Modelling and Forecasting**, which introduces atmospheric researchers to Python-based workflows for processing, visualizing, and evaluating atmospheric dust forecasts and observations.
 
 The main goal of the training is to analyze and predict dust events over Cyprus and evaluate the accuracy of atmospheric dust models for the region.
 
